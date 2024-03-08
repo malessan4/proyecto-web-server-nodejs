@@ -1,0 +1,14 @@
+{
+  "name": "proyecto-web-server",
+  "version": "0.0.1",
+  "description": "Proyecto de Web Server para curso de NodeJS",
+  "main": "src/app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js"
+  },
+  "author": "Matias Daniel Alessandrello",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
